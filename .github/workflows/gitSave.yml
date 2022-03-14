@@ -1,0 +1,7 @@
+name: GitHub Actions Demo
+on: [init]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: windows-latest
+    steps:
+      -run: 
